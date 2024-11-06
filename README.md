@@ -5,7 +5,6 @@ This project conducts a thorough analysis of supply chain data to explore variou
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
-- [Installation](#installation)
 - [Data Preparation and Cleaning](#data-preparation-and-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
   - [Sales Analysis](#sales-analysis)
